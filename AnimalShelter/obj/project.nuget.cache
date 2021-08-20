@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "e4XC+u0PmPm3YxmgnOEEzZQjljyDmxN0g0Q46oUYyT1uyingIxhq+gE6+ZXYFYVy2P2/zWBCezszHR1BoxvMKQ==",
+  "dgSpecHash": "+sv3KfJXY6DnOpvBh1EQyqYKmh1a3vVpxfkFApQywqRGa98t6s8vVyizDLojEbw2zrPWXXboW7vHFGn1Ynr4Yw==",
   "success": true,
   "projectFilePath": "/Users/gurshankaile/Desktop/CSharp/AnimalShelter.Solution/AnimalShelter/AnimalShelter.csproj",
   "expectedPackageFiles": [
+    "/Users/gurshankaile/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/gurshankaile/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/gurshankaile/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/Users/gurshankaile/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "/Users/gurshankaile/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/Users/gurshankaile/.nuget/packages/microsoft.entityframeworkcore.design/5.0.0/microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "/Users/gurshankaile/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/Users/gurshankaile/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/gurshankaile/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
