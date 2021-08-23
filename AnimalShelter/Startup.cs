@@ -31,6 +31,12 @@ namespace AnimalShelter
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            services.AddApiVersioning(o => {
+            o.ReportApiVersions = true;
+            o.AssumeDefaultVersionWhenUnspecified = true;
+            o.DefaultApiVersion = new ApiVersion(1, 0);
+            });
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
